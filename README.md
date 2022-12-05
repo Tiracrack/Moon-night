@@ -6,6 +6,6 @@ $ git clone https://github.com/Tiracrack/Moon_night.py
 
 $ pkg install python3 -y
 
-$ pip3 install -r requests.txt
+
 
 $ python3 Moon_night.py
